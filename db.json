@@ -1,0 +1,37 @@
+{
+  "users": {
+    "6289516636775@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    },
+    "6285389296108@s.whatsapp.net": {
+      "premiumTime": 0,
+      "premium": false
+    }
+  },
+  "chats": {
+    "6281991410940@s.whatsapp.net": {},
+    "6289516636775@s.whatsapp.net": {},
+    "6285389296108@s.whatsapp.net": {}
+  },
+  "game": {},
+  "database": {},
+  "settings": {
+    "6289516636775@s.whatsapp.net": {
+      "status": 0,
+      "stock": 10,
+      "autobio": false,
+      "autoTyping": false,
+      "autoRecord": true,
+      "autoButton": true,
+      "public": false,
+      "setPrefix": "all",
+      "onlygrub": false,
+      "autoread": false,
+      "menuType": "buttonImage"
+    }
+  },
+  "setting": {},
+  "others": {},
+  "sticker": {}
+}
